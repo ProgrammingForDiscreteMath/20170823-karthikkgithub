@@ -1,2 +1,6 @@
+There is no need to put semicolons (and you should not do this) at the end of lines in python. Otherwise your code is good.
+
 **Great Job; 35/35**
+
+
 But I don't know your real name!
